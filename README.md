@@ -7,6 +7,6 @@ Danny R: Primary code writer, maintaining jupyter notebook, python code - lead
 Siddharth G: Secondary code writer and parallel process for QC, meeting coordinator  
 
 ## Phase 2
-Danny R: Primary code writer, maintaining jupyter notebook  
+Danny R: Primary code writer, maintaining jupyter notebook, python code - lead  
 Harshal P: Github repository lead, python code editor(editing, verifying code and fixing issues)    
 Siddharth G: Meeting coordinator, python code editor(editing, verifying code and fixing issues)    
