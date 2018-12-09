@@ -14,5 +14,5 @@ Siddharth G: Meeting coordinator, python code editor(editing, verifying code and
 ## Phase 3
 Danny R: Primary code writer, maintaining jupyter notebook, python code - lead    
 Harshal P: Github repository lead, python code writer for error rate function    
-Siddharth G: Meeting coordinator, python code editor(editing, verifying code and fixing issues), QA check      
+Siddharth G: Meeting coordinator, editing and verifying python code, report, QA check      
 
